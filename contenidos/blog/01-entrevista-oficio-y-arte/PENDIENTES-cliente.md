@@ -19,7 +19,7 @@
 - Se han corregido erratas: "réptiles", comillas sin cerrar y "aun hoy hay apenas".
 - Se ha aclarado que Oficio y Arte es la Organización de los Artesanos de España (OAE).
 - Se ha añadido contexto verificable: la Ryder Cup de 1997 fue la primera en Europa continental.
-- Se han añadido un glosario del oficio (mesa, lujar, timbrar, petaquero) y FAQ, que aportan experiencia y responden búsquedas.
+- Se han añadido FAQ y una breve explicación de "petaquero" (contrastada con fuentes externas). ES: se ha eliminado el glosario de términos no verificados y se han suavizado las afirmaciones no presentes en el original.
 - Las cifras con fecha se atribuyen al momento de la entrevista.
 - Se han añadido enlaces internos a /know-how/, /workshop/, /raw-material/, /make-to-order/, colecciones, el post de golf y /contact/.
 - Se ha añadido la mención a ISO 9001/14001, que enlazará con el futuro post de ética y transparencia.
@@ -28,6 +28,6 @@
 
 ## Publicación (WordPress + WPML/Polylang)
 
-- Las URL internas de la versión ES (/workshop/, etc.) son las de EN. Hay que sustituirlas por su equivalente /es/ al maquetar.
+- ES: enlaces internos ya apuntan a las URL /es/ (comprobadas, HTTP 200). EN: pendiente de aplicar los mismos ajustes de prudencia.
 - Hay que vincular las dos versiones como traducciones para que se genere el hreflang.
 - Hay que mostrar el autor y la fecha en la plantilla del post. Ahora el Journal no los muestra.
