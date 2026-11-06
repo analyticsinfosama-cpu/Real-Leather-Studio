@@ -86,9 +86,9 @@ Su padre, Jesús Moreno Fernández, es un buen ejemplo. *«Pasó por todos los n
 
 Esa visión permitió a la empresa adaptarse al ritmo de la moda de lujo: *«Acortar plazos de entrega o adecuar la empresa a la dinámica de los grandes de la moda y el lujo… aún hoy apenas hay talleres que se atrevan a hacerlo. Eso delata que ama el oficio y que desea ponerlo en valor»*.
 
-## Tradición e innovación: un taller que mira al mundo
+## ¿Por qué exportamos más del 80 % de nuestra producción?
 
-Trabajar para el lujo solo es posible cuando la cualificación está a la altura. *«Mi padre fue haciendo equipo poco a poco, desde una consideración del oficio por encima de la habitual; sea como fuere, siempre tuvo clara la internacionalización»*.
+Porque la internacionalización forma parte de Real Leather Studio desde sus inicios. Trabajar para el lujo solo es posible cuando la cualificación está a la altura. *«Mi padre fue haciendo equipo poco a poco, desde una consideración del oficio por encima de la habitual; sea como fuere, siempre tuvo clara la internacionalización»*.
 
 Fue pionero en acudir a ferias, primero en España y después en showrooms de Reino Unido, Corea, Japón, Australia y Estados Unidos. Llevaba un muestrario distinto a cada mercado, *«porque las idiosincrasias y costumbres son diferentes»*. Hoy **exportamos más del 80 % de nuestra producción**.
 

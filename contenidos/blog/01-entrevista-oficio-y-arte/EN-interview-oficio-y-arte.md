@@ -88,9 +88,9 @@ His father, Jesús Moreno Fernández, is a good example. *"He went through every
 
 That vision allowed the company to keep pace with luxury fashion: *"Shortening lead times, adapting the company to the pace of the big fashion and luxury houses… even today very few workshops dare to do it. It shows that he loves the craft and wants to give it the value it deserves."*
 
-## Tradition and innovation: a workshop with a global outlook
+## Why do we export more than 80% of our production?
 
-Working for luxury brands is only possible when skills match that market. *"My father built the team little by little, holding the craft in higher regard than was usual. Either way, he was always clear about going international."*
+Because going international has been part of Real Leather Studio from the very beginning. Working for luxury brands is only possible when skills match that market. *"My father built the team little by little, holding the craft in higher regard than was usual. Either way, he was always clear about going international."*
 
 He was a pioneer at trade fairs, first in Spain and later at showrooms in the UK, South Korea, Japan, Australia and the United States. He took a different sample collection to each market, *"because every culture and its customs are different."* Today **we export more than 80% of our production**.
 
