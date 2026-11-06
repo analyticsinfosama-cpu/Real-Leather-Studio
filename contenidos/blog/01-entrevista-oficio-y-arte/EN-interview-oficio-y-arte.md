@@ -7,9 +7,9 @@ title: "Real Leather Studio in Oficio y Arte — EN version"
 | Field | Value |
 |---|---|
 | URL | `/interview-oficio-y-arte/` |
-| SEO title (≤ 60) | Oficio y Arte Interview \| Real Leather Studio, Ubrique |
+| SEO title (≤ 60) | Luxury Leather Craftsmanship in Ubrique Since 1984 \| RLS-ART |
 | Meta description (≤ 155) | Jesús Moreno Sánchez tells Oficio y Arte how a Ubrique workshop has crafted leather goods for the world's leading luxury brands since 1984. |
-| H1 | Real Leather Studio in Oficio y Arte: Over 40 Years of Luxury Leather Craftsmanship in Ubrique |
+| H1 | Real Leather Studio: Over 40 Years of Luxury Leather Craftsmanship in Ubrique |
 | Main keyword | Ubrique leather craftsmanship |
 | Secondary | luxury leather goods made in Spain · leather goods workshop Ubrique · private label leather manufacturer · leather golf accessories |
 | Category | Press / Interviews |
@@ -22,13 +22,13 @@ Note: we don't target "leather goods manufacturer Spain" here because the /know-
 
 # 2. Article
 
-# Real Leather Studio in Oficio y Arte: Over 40 Years of Luxury Leather Craftsmanship in Ubrique
+# Real Leather Studio: Over 40 Years of Luxury Leather Craftsmanship in Ubrique
 
 *By [Author] · Reviewed by Jesús Moreno Sánchez, Operations Technician at Real Leather Studio · Published [date]*
 
-Oficio y Arte, the Organisation of Spanish Artisans (OAE), asked to interview **Jesús Moreno Sánchez**. He is Real Leather Studio's Operations Technician and the son of one of our founders. In the interview, he looks back on more than four decades of work in Ubrique. He explains how a family workshop came to manufacture for some of the great luxury houses and why we pioneered leather golf accessories. He also describes what we do to pass the craft on to the next generation.
+**Since 1984, we have been crafting leather goods in Ubrique for some of the world's great luxury houses, including Montblanc, Givenchy and Lanvin. In an interview with Oficio y Arte, our Operations Technician Jesús Moreno Sánchez explains how a family workshop got there, why we pioneered leather golf accessories and how we are passing the craft on to the next generation.**
 
-Below, his answers are grouped by topic. Quotes are translated from Spanish. You can also [read the original interview in Oficio y Arte]([ORIGINAL URL]).
+The interview was conducted by Oficio y Arte, the Organisation of Spanish Artisans (OAE). Jesús is the son of one of our founders. Below, his answers are grouped by topic. Quotes are translated from Spanish. You can also [read the original interview in Oficio y Arte]([ORIGINAL URL]).
 
 > **Real Leather Studio at a glance**
 >
@@ -59,7 +59,7 @@ In Jesús's words, we are still *"a family-run SME, artisanal in character but w
 
 ## 1996: the first to bring leather to golf
 
-That search for new directions led us to golf. In 1996, Real Leather Studio became the first company in the world to design and develop a range of leather goods and accessories for golf. A year later, the collection got its big break at the **32nd Ryder Cup**, held at Valderrama Golf Club (Sotogrande, Cádiz). It was the first Ryder Cup ever played in continental Europe.
+That search for new directions led us to golf. In 1996, as Jesús Moreno recalls, Real Leather Studio became the first company in the world to design and develop a range of leather goods and accessories for golf. A year later, the collection got its big break at the **32nd Ryder Cup**, held at Valderrama Golf Club (Sotogrande, Cádiz). It was the first Ryder Cup ever played in continental Europe.
 
 Since then, *"we have produced merchandising and corporate gifts for Volvo Klassik, Bentley, the Royal Spanish Golf Federation and the PGA Tour."* We have also made personalised pieces for Easy Golf (Igel-Gesa Müller), Golf Club Am Hockenberg, Hapag-Lloyd and MS Europa Cruises.
 
@@ -175,6 +175,6 @@ Use the same graph as the Spanish version, with these changes:
 
 - `@id` and `mainEntityOfPage`: `https://rls-art.com/interview-oficio-y-arte/`
 - `inLanguage`: `en`
-- `headline`: the English H1
+- `headline`: the English H1 ("Real Leather Studio: Over 40 Years of Luxury Leather Craftsmanship in Ubrique")
 - `jobTitle`: `Operations Technician`
 - FAQ questions and answers in English, matching the FAQ text above word for word.

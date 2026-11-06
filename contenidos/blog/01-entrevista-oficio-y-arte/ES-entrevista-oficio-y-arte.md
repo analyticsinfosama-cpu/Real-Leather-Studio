@@ -7,9 +7,9 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 | Campo | Valor |
 |---|---|
 | URL | `/es/entrevista-oficio-y-arte/` |
-| Title SEO (≤ 60) | Entrevista en Oficio y Arte \| Real Leather Studio Ubrique |
+| Title SEO (≤ 60) | Marroquinería de lujo en Ubrique desde 1984 \| RLS-ART |
 | Meta description (≤ 155) | Jesús Moreno Sánchez cuenta a Oficio y Arte cómo un taller de Ubrique fabrica desde 1984 artículos de piel para las grandes marcas del lujo. |
-| H1 | Real Leather Studio en Oficio y Arte: más de 40 años de marroquinería de lujo en Ubrique |
+| H1 | Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique |
 | Keyword principal | fabricante de marroquinería de lujo en Ubrique |
 | Secundarias | artesanos de la piel en Ubrique · taller de marroquinería Ubrique · artículos de golf de piel · fabricación de artículos de piel para marcas |
 | Categoría | Prensa / Entrevistas |
@@ -20,13 +20,13 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 
 # 2. Artículo
 
-# Real Leather Studio en Oficio y Arte: más de 40 años de marroquinería de lujo en Ubrique
+# Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique
 
 *Por [Autor] · Revisado por Jesús Moreno Sánchez, técnico de Operaciones de Real Leather Studio · Publicado el [fecha]*
 
-Oficio y Arte, la Organización de los Artesanos de España (OAE), se puso en contacto con nosotros para entrevistar a **Jesús Moreno Sánchez**, técnico de Operaciones de Real Leather Studio e hijo de uno de nuestros fundadores. En la conversación repasa más de cuatro décadas de trabajo en Ubrique: cómo un taller familiar llegó a fabricar para algunas de las grandes casas del lujo, por qué fuimos pioneros en los artículos de golf de piel y qué hacemos para que el oficio pase a la siguiente generación.
+**Desde 1984 fabricamos en Ubrique artículos de piel para algunas de las grandes casas del lujo, como Montblanc, Givenchy o Lanvin. En una entrevista con Oficio y Arte, Jesús Moreno Sánchez, nuestro técnico de Operaciones, cuenta cómo un taller familiar llegó hasta ahí, por qué fuimos pioneros en el golf y cómo aseguramos el relevo del oficio.**
 
-Aquí recogemos sus respuestas ordenadas por temas. También puedes [leer la entrevista original en Oficio y Arte]([URL ORIGINAL]).
+La entrevista la realizó Oficio y Arte, la Organización de los Artesanos de España (OAE). Jesús es hijo de uno de nuestros fundadores. Aquí recogemos sus respuestas ordenadas por temas. También puedes [leer la entrevista original en Oficio y Arte]([URL ORIGINAL]).
 
 > **Real Leather Studio en cifras**
 >
@@ -57,7 +57,7 @@ Hoy seguimos siendo, en palabras de Jesús, *«una pyme familiar de carácter ar
 
 ## 1996: los primeros en llevar la piel al golf
 
-Esa búsqueda de alternativas nos llevó al golf. En 1996, Real Leather Studio se convirtió en la primera empresa del mundo en diseñar y desarrollar una gama de artículos y complementos de piel para la práctica del golf. Un año después, la colección recibió su gran espaldarazo en la **XXXII Ryder Cup**, celebrada en el Club de Golf Valderrama (Sotogrande, Cádiz). Fue la primera edición del torneo que se jugó en Europa continental.
+Esa búsqueda de alternativas nos llevó al golf. En 1996, según recuerda Jesús Moreno, Real Leather Studio se convirtió en la primera empresa del mundo en diseñar y desarrollar una gama de artículos y complementos de piel para la práctica del golf. Un año después, la colección recibió su gran espaldarazo en la **XXXII Ryder Cup**, celebrada en el Club de Golf Valderrama (Sotogrande, Cádiz). Fue la primera edición del torneo que se jugó en Europa continental.
 
 Desde entonces, *«concretamos merchandising y atenciones corporativas para Volvo Klassik, Bentley, la Real Federación Española de Golf o el PGA Tour»*. También personalizamos artículos para Easy Golf (Igel-Gesa Müller), Golf Club Am Hockenberg, Hapag-Lloyd o MS Europa Cruises.
 
@@ -180,7 +180,7 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
     {
       "@type": "BlogPosting",
       "@id": "https://rls-art.com/es/entrevista-oficio-y-arte/#article",
-      "headline": "Real Leather Studio en Oficio y Arte: más de 40 años de marroquinería de lujo en Ubrique",
+      "headline": "Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique",
       "inLanguage": "es-ES",
       "datePublished": "[AAAA-MM-DD]",
       "dateModified": "[AAAA-MM-DD]",

@@ -8,10 +8,13 @@
 4. **Cifras actuales:** plantilla (25, hasta 40 en temporada), exportación (> 80 %) y referencias (> 300). En el texto van como "en la fecha de la entrevista"; si hay datos de 2026, se actualizan.
 5. **"Primera empresa del mundo"** en artículos de golf de piel (1996). Hay que confirmar si existe alguna prueba (prensa o fotos de la Ryder Cup 1997). Si no la hay, se suaviza a "una de las primeras".
 6. **Pieles exóticas:** si usan pitón o iguana, conviene mencionar que cumplen CITES. Refuerza mucho la confianza.
-7. **Fotos reales:** taller, artesanos en mesa, lujado, Ryder Cup 1997 y el fundador.
+7. **Cargo de Jesús:** en el Word aparece como "Técnico de Operaciones" y, dentro de la entrevista, como "responsable de Operaciones". Hay que confirmar cuál es el correcto; en los textos se ha usado "técnico de Operaciones".
+8. **Fotos reales:** taller, artesanos en mesa, lujado, Ryder Cup 1997 y el fundador.
 
 ## Cambios respecto al Word original
 
+- H1 orientado a la búsqueda ("marroquinería de lujo en Ubrique"), con entradilla en negrita y la referencia a Oficio y Arte en la entradilla.
+- "Primera empresa del mundo" atribuido a Jesús Moreno ("según recuerda…").
 - Se ha reestructurado en H2 por temas y se ha añadido un bloque de cifras clave, útil para la IA y los featured snippets.
 - Se han corregido erratas: "réptiles", comillas sin cerrar y "aun hoy hay apenas".
 - Se ha aclarado que Oficio y Arte es la Organización de los Artesanos de España (OAE).
