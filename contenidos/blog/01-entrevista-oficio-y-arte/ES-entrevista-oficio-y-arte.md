@@ -13,7 +13,7 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 | Keyword principal | fabricante de marroquinería de lujo en Ubrique |
 | Secundarias | artesanos de la piel en Ubrique · taller de marroquinería Ubrique · artículos de golf de piel · fabricación de artículos de piel para marcas |
 | Categoría | Prensa / Entrevistas |
-| Autor | [Nombre del autor] |
+| Autor | Real Leather Studio (la fecha y el autor los muestra WordPress al publicar) |
 | Versión EN (hreflang) | `/interview-oficio-y-arte/` |
 
 ---
@@ -22,11 +22,9 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 
 # Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique
 
-*Por [Autor] · Publicado el [fecha]*
-
 **Desde 1984 fabricamos artículos de piel en Ubrique y, a lo largo de estos años, hemos trabajado para grandes casas del lujo como Montblanc, Givenchy o Lanvin. En una entrevista con Oficio y Arte, Jesús Moreno Sánchez, nuestro técnico de Operaciones, cuenta cómo un taller familiar llegó hasta ahí, cómo nació nuestra línea de golf y qué hacemos para asegurar el relevo del oficio.**
 
-La entrevista la realizó Oficio y Arte, la Organización de los Artesanos de España (OAE). Jesús es hijo de uno de nuestros socios fundadores. Aquí recogemos sus respuestas ordenadas por temas. También puedes [leer la entrevista original en Oficio y Arte]([URL ORIGINAL]) o conocer más sobre [quiénes somos](https://rls-art.com/es/conocenos/).
+La entrevista la realizó Oficio y Arte, la Organización de los Artesanos de España (OAE). Jesús es hijo de uno de nuestros socios fundadores. Aquí recogemos sus respuestas ordenadas por temas. Si quieres saber más de nosotros, visita [quiénes somos](https://rls-art.com/es/conocenos/).
 
 > **Real Leather Studio en cifras**
 >
@@ -143,7 +141,7 @@ Sí. Además de con marcas, trabajamos con diseñadores y particulares, con pedi
 
 ---
 
-*Entrevista publicada originalmente en Oficio y Arte, Organización de los Artesanos de España (OAE), [nº / fecha]. [Ver entrevista original]([URL ORIGINAL]). Consulta otras apariciones en [prensa](https://rls-art.com/es/prensa/).*
+*Entrevista concedida a Oficio y Arte, Organización de los Artesanos de España (OAE). Consulta otras apariciones de Real Leather Studio en [prensa](https://rls-art.com/es/prensa/).*
 
 **¿Tienes un proyecto en piel?** [Escríbenos](https://rls-art.com/es/contacto/) y te asesoramos desde nuestro taller en Ubrique.
 
@@ -177,7 +175,7 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
       "inLanguage": "es-ES",
       "datePublished": "[AAAA-MM-DD]",
       "dateModified": "[AAAA-MM-DD]",
-      "author": { "@type": "Person", "name": "[Autor]" },
+      "author": { "@id": "https://rls-art.com/#organization" },
       "publisher": { "@id": "https://rls-art.com/#organization" },
       "about": { "@id": "https://rls-art.com/#organization" },
       "mentions": [
@@ -185,7 +183,6 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
         { "@type": "Organization", "name": "Oficio y Arte – Organización de los Artesanos de España", "url": "https://www.oficioyarte.org/" },
         { "@type": "Organization", "name": "Empiel" }
       ],
-      "isBasedOn": "[URL ORIGINAL]",
       "mainEntityOfPage": "https://rls-art.com/es/entrevista-oficio-y-arte/"
     },
     {
