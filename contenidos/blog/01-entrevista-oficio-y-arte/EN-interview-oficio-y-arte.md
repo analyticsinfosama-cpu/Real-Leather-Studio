@@ -67,7 +67,7 @@ We tell this part of our story in [Real Leather Studio and Golf](https://rls-art
 
 At the time of the interview, the team had 25 people with an average age of 35 to 40, *"most of them from Ubrique and familiar with the craft."* At peak times or in high season, the team grows to 40.
 
-> *"We're a full football team: from pattern makers to laser-cutting operators, which we combine with traditional hand cutting; people who paint, others who do the *lujado* finish; stitchers, people who stamp, bench workers and quality control… Even so, although we've refined every role, everyone knows the craft and can step in for anyone else, whatever their job. It's a relative specialisation, because everyone started at the bench, and that makes things easier."*
+> *"We're a full football team: from pattern makers to laser-cutting operators, which we combine with traditional hand cutting; people who paint, others who do the 'lujado' finish; stitchers, people who stamp, bench workers and quality control… Even so, although we've refined every role, everyone knows the craft and can step in for anyone else, whatever their job. It's a relative specialisation, because everyone started at the bench, and that makes things easier."*
 
 In Ubrique, leatherwork is a centuries-old tradition, *"and in fact we always talk about artisan-artists."* See how we work in [our workshop](https://rls-art.com/workshop/) and [our know-how](https://rls-art.com/know-how/).
 
