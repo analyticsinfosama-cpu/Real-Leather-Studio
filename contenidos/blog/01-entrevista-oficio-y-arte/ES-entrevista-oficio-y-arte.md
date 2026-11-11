@@ -6,11 +6,11 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 
 | Campo | Valor |
 |---|---|
-| URL | `/es/entrevista-oficio-y-arte/` |
-| Title SEO (≤ 60) | Marroquinería de lujo en Ubrique desde 1984 \| RLS-ART |
-| Meta description (≤ 155) | Jesús Moreno Sánchez cuenta a Oficio y Arte cómo un taller familiar de Ubrique, activo desde 1984, ha fabricado para grandes marcas del lujo. |
+| URL | `/es/marroquineria-de-lujo-en-ubrique/` |
+| Title SEO (≤ 60) | Marroquinería de lujo en Ubrique: más de 40 años de oficio |
+| Meta description (≤ 155) | Marroquinería de lujo en Ubrique desde 1984. Jesús Moreno Sánchez cuenta a Oficio y Arte cómo hemos llegado a fabricar para Montblanc o Givenchy. |
 | H1 | Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique |
-| Keyword principal | fabricante de marroquinería de lujo en Ubrique |
+| Focus keyword (Rank Math) | marroquinería de lujo en Ubrique |
 | Secundarias | artesanos de la piel en Ubrique · taller de marroquinería Ubrique · artículos de golf de piel · fabricación de artículos de piel para marcas |
 | Categoría | Prensa / Entrevistas |
 | Autor | Real Leather Studio (la fecha y el autor los muestra WordPress al publicar) |
@@ -22,9 +22,9 @@ title: "Real Leather Studio en Oficio y Arte — Versión ES"
 
 # Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique
 
-**Desde 1984 fabricamos artículos de piel en Ubrique y, a lo largo de estos años, hemos trabajado para grandes casas del lujo como Montblanc, Givenchy o Lanvin. En una entrevista con Oficio y Arte, Jesús Moreno Sánchez, nuestro técnico de Operaciones, cuenta cómo un taller familiar llegó hasta ahí, cómo nació nuestra línea de golf y qué hacemos para asegurar el relevo del oficio.**
+**Desde 1984 nos dedicamos a la marroquinería de lujo en Ubrique y, a lo largo de estos años, hemos trabajado para grandes casas del lujo como Montblanc, Givenchy o Lanvin. En una entrevista con Oficio y Arte, Jesús Moreno Sánchez, nuestro técnico de Operaciones, cuenta cómo un taller familiar llegó hasta ahí, cómo nació nuestra línea de golf y qué hacemos para asegurar el relevo del oficio.**
 
-La entrevista la realizó Oficio y Arte, la Organización de los Artesanos de España (OAE). Jesús es hijo de uno de nuestros socios fundadores. Aquí recogemos sus respuestas ordenadas por temas. Si quieres saber más de nosotros, visita [quiénes somos](https://rls-art.com/es/conocenos/).
+La entrevista la realizó [Oficio y Arte](https://www.oficioyarte.org/), la Organización de los Artesanos de España (OAE). Jesús es hijo de uno de nuestros socios fundadores. Aquí recogemos sus respuestas ordenadas por temas. Si quieres saber más de nosotros, visita [quiénes somos](https://rls-art.com/es/conocenos/).
 
 > **Real Leather Studio en cifras**
 >
@@ -43,7 +43,7 @@ La entrevista la realizó Oficio y Arte, la Organización de los Artesanos de Es
 
 Jesús Moreno Sánchez es técnico de Operaciones de Real Leather Studio e hijo de Jesús Moreno Fernández, uno de los tres socios que fundaron la empresa en 1984.
 
-## Desde 1984: un taller de Ubrique al servicio de las marcas de lujo
+## Desde 1984: marroquinería de lujo en Ubrique para las grandes marcas
 
 Real Leather Studio nació en 1984 como iniciativa de tres socios con una larga experiencia en marroquinería. Tenían un objetivo claro, explica Jesús Moreno: *«prestar servicios especializados a empresas del segmento de artículos de moda y complementos manufacturando sus colecciones de [bolsos](https://rls-art.com/es/bolsos-de-piel/), pequeña marroquinería, [artículos de oficina](https://rls-art.com/es/articulos-de-piel-para-oficina/), viaje o [regalo corporativo](https://rls-art.com/es/articulos-de-piel-regalos/)»*.
 
@@ -125,7 +125,7 @@ Puedes verlo en nuestros [accesorios de hogar en piel](https://rls-art.com/es/ac
 ## Preguntas frecuentes
 
 **¿Dónde fabrica Real Leather Studio sus artículos de piel?**
-En Ubrique (Cádiz), donde trabajamos desde 1984.
+Nuestro taller de marroquinería de lujo en Ubrique (Cádiz) trabaja desde 1984.
 
 **¿Para qué marcas ha fabricado Real Leather Studio?**
 Hemos fabricado, de forma puntual o continuada, para firmas como Montblanc, Óscar de la Renta, Courrèges, Lanvin, Givenchy, Gretchen, Elio Berhanyer y Devota & Lomba.
@@ -143,7 +143,7 @@ Sí. Además de con marcas, trabajamos con diseñadores y particulares, con pedi
 
 *Entrevista concedida a Oficio y Arte, Organización de los Artesanos de España (OAE). Consulta otras apariciones de Real Leather Studio en [prensa](https://rls-art.com/es/prensa/).*
 
-**¿Tienes un proyecto en piel?** [Escríbenos](https://rls-art.com/es/contacto/) y te asesoramos desde nuestro taller en Ubrique.
+**¿Tienes un proyecto en piel?** [Escríbenos](https://rls-art.com/es/contacto/) y te asesoramos desde nuestro taller de marroquinería de lujo en Ubrique.
 
 ---
 
@@ -151,7 +151,7 @@ Sí. Además de con marcas, trabajamos con diseñadores y particulares, con pedi
 
 | Imagen | Nombre de archivo | Alt |
 |---|---|---|
-| Destacada: Jesús Moreno Sánchez en el taller | `jesus-moreno-sanchez-real-leather-studio-ubrique.jpg` | Jesús Moreno Sánchez, técnico de Operaciones de Real Leather Studio, en el taller de Ubrique |
+| Destacada: Jesús Moreno Sánchez en el taller | `marroquineria-de-lujo-en-ubrique-real-leather-studio.jpg` | Marroquinería de lujo en Ubrique: Jesús Moreno Sánchez en el taller de Real Leather Studio |
 | Artesano trabajando en mesa | `artesano-mesa-marroquineria-ubrique.jpg` | Artesano de Real Leather Studio trabajando una pieza de piel en Ubrique |
 | Corte láser y corte a mano | `corte-piel-laser-y-mano-taller-ubrique.jpg` | Corte de piel a láser y a mano en el taller de Real Leather Studio |
 | Acabado de cantos | `acabado-cantos-piel-ubrique.jpg` | Artesana trabajando los cantos de un artículo de piel |
@@ -170,7 +170,7 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
   "@graph": [
     {
       "@type": "BlogPosting",
-      "@id": "https://rls-art.com/es/entrevista-oficio-y-arte/#article",
+      "@id": "https://rls-art.com/es/marroquineria-de-lujo-en-ubrique/#article",
       "headline": "Real Leather Studio: más de 40 años de marroquinería de lujo en Ubrique",
       "inLanguage": "es-ES",
       "datePublished": "[AAAA-MM-DD]",
@@ -183,7 +183,7 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
         { "@type": "Organization", "name": "Oficio y Arte – Organización de los Artesanos de España", "url": "https://www.oficioyarte.org/" },
         { "@type": "Organization", "name": "Empiel" }
       ],
-      "mainEntityOfPage": "https://rls-art.com/es/entrevista-oficio-y-arte/"
+      "mainEntityOfPage": "https://rls-art.com/es/marroquineria-de-lujo-en-ubrique/"
     },
     {
       "@type": "Person",
@@ -210,7 +210,7 @@ Si Yoast o Rank Math ya generan `Article`, añade solo `FAQPage` y la `Person` p
     {
       "@type": "FAQPage",
       "mainEntity": [
-        { "@type": "Question", "name": "¿Dónde fabrica Real Leather Studio sus artículos de piel?", "acceptedAnswer": { "@type": "Answer", "text": "En Ubrique (Cádiz), donde trabajamos desde 1984." } },
+        { "@type": "Question", "name": "¿Dónde fabrica Real Leather Studio sus artículos de piel?", "acceptedAnswer": { "@type": "Answer", "text": "Nuestro taller de marroquinería de lujo en Ubrique (Cádiz) trabaja desde 1984." } },
         { "@type": "Question", "name": "¿Para qué marcas ha fabricado Real Leather Studio?", "acceptedAnswer": { "@type": "Answer", "text": "Hemos fabricado, de forma puntual o continuada, para firmas como Montblanc, Óscar de la Renta, Courrèges, Lanvin, Givenchy, Gretchen, Elio Berhanyer y Devota & Lomba." } },
         { "@type": "Question", "name": "¿Real Leather Studio curte sus propias pieles?", "acceptedAnswer": { "@type": "Answer", "text": "No. Ni curtimos ni tintamos: trabajamos con proveedores nacionales de confianza. La mayor parte de la piel que usamos, en torno al 80 %, es vacuna." } },
         { "@type": "Question", "name": "¿Desde cuándo fabricáis artículos de golf de piel?", "acceptedAnswer": { "@type": "Answer", "text": "Desde 1996. Un año después, la gama se vio refrendada en la XXXII Ryder Cup de Valderrama." } },
